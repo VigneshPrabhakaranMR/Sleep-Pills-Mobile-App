@@ -23,6 +23,6 @@ Verk is a modern e-commerce mobile app designed for purchasing dissolvable sleep
 I’d love to hear your thoughts! Feel free to open an issue or contribute. 🙌  
 
 ## 🔗 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/vigneshprabhakaran) | [Portfolio](#)  
+[LinkedIn](https://www.linkedin.com/in/vigneshprabhakaran) 
 
 ---
