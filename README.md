@@ -1,7 +1,7 @@
 # Verk – Sleep Pills Mobile App Prototype 🌙💊  
 
 ## 🎥 Watch the Demo  
-🔗 https://www.linkedin.com/feed/update/urn:li:activity:7299855995021725697/
+🔗 [LinkedIn Demo](https://www.linkedin.com/feed/update/urn:li:activity:7299855995021725697/)  
 
 ## 📌 Overview  
 Verk is a modern e-commerce mobile app designed for purchasing dissolvable sleep wafers. With a **sleek UI, intuitive navigation, and seamless shopping experience**, Verk enhances accessibility and user engagement.  
