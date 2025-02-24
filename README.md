@@ -13,7 +13,7 @@ Verk is a modern e-commerce mobile app designed for purchasing dissolvable sleep
 ✅ **Minimalistic & Intuitive Design** – Clean aesthetics for a smooth user experience.  
 
 ## 📱 UI Preview  
-![Verk UI Preview](Cover 2.png)  
+![Verk UI Preview](Cover%202.png)  
 
 ## 🔧 Tech Stack  
 - **Design Tools:** Figma / Adobe XD  
@@ -23,6 +23,6 @@ Verk is a modern e-commerce mobile app designed for purchasing dissolvable sleep
 I’d love to hear your thoughts! Feel free to open an issue or contribute. 🙌  
 
 ## 🔗 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/vigneshprabhakaran) 
+[LinkedIn](https://www.linkedin.com/in/vigneshprabhakaran) | [Portfolio](#)  
 
 ---
